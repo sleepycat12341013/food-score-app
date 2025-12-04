@@ -1,10 +1,16 @@
 # 🍽️ Food Score App
 
 A simple and fun app where you can **select what you ate** and **give it a score**.  
-<div style="text-align:center;">
-<img src="https://github.com/sleepycat12341013/food-score-app/blob/main/img/img01.png" alt="food-score-app
-" width="300" margin-top="6px">
-</div>
+<div style="display: flex; justyfy-content: center; text-align: center;">
+  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sleepycat12341013/food-score-app/main/img/img01.png" 
+       alt="food-score-app" 
+       width="300">
+</p>
+
+
+
 
 
 ---
@@ -28,7 +34,7 @@ A simple and fun app where you can **select what you ate** and **give it a score
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/your-username/food-score-app.git
+git clone https://github.com/sleepycat12341013/food-score-app.git
 cd food-score-app
 npm install
 npm run dev
