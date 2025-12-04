@@ -1,7 +1,11 @@
 # 🍽️ Food Score App
 
 A simple and fun app where you can **select what you ate** and **give it a score**.  
-![food-score-app](画像のURL)
+<div style="text-align:center;">
+<img src="https://github.com/sleepycat12341013/food-score-app/blob/main/img/img01.png" alt="food-score-app
+" width="300" margin-top="6px">
+</div>
+
 
 ---
 
