@@ -17,17 +17,19 @@ A simple and fun app where you can **select what you ate** and **give it a score
 
 ## ✨ Features
 
-- 🍔 Select foods from a list  
-- ⭐ Rate your meals with a simple score
+  　🍔 Select foods from a list  
+  
+  　⭐ Rate your meals with a simple score
   
 ---
 
 ## 🛠️ Tech Stack
 
-- ⚡ Next.js  
-- 🎨 Tailwind CSS  
-- ☁️ Firebase (optional)   
-- 📱 Fully responsive UI  
+ 　⚡ Next.js 
+  
+ 　🎨 Tailwind CSS   
+  
+ 　📱 Fully responsive UI  
 
 ---
 
