@@ -1,8 +1,7 @@
 # 🍽️ Food Score App
 
 A simple and fun app where you can **select what you ate** and **give it a score**.  
-<div style="display: flex; justyfy-content: center; text-align: center;">
-  
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/sleepycat12341013/food-score-app/main/img/img01.png" 
        alt="food-score-app" 
